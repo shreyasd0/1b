@@ -1,0 +1,12 @@
+Jane Doe
+Backend Software Engineer
+
+Experience:
+- 3 years building REST APIs using Python, FastAPI, and Django.
+- Designed and maintained PostgreSQL database schemas for high-traffic applications.
+- Built machine learning features using scikit-learn and natural language processing techniques such as TF-IDF and cosine similarity.
+- Collaborated closely with frontend engineers on React applications.
+- Used Git for version control and Docker for containerization; deployed services to AWS and Render.
+- Strong background in agile development, code review, and automated testing.
+
+Skills: Python, FastAPI, Django, PostgreSQL, React, scikit-learn, NLP, Docker, AWS, Git

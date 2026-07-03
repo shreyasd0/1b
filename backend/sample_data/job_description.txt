@@ -1,0 +1,3 @@
+Backend Software Engineer
+
+We are looking for a Backend Software Engineer to join our team. The ideal candidate has strong experience with Python, FastAPI or Django, and REST API design. You will work with PostgreSQL and other relational databases, write clean and testable code, and collaborate with frontend engineers building React applications. Experience with machine learning, scikit-learn, and natural language processing is a strong plus. Familiarity with Git, Docker, and cloud deployment (AWS, Render, or similar) is desired. Strong problem solving skills and the ability to work in an agile team are required.

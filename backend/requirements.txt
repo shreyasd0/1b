@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pdfplumber
+python-docx
+nltk
+scikit-learn
+SQLAlchemy
+psycopg2-binary
+python-dotenv
